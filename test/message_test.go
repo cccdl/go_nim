@@ -1,7 +1,7 @@
 package tests
 
 import (
-	nim "go_nim"
+	"github.com/cccdl/go_nim"
 	"testing"
 )
 
